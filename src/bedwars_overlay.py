@@ -20,7 +20,7 @@ class BedwarsOverlay(QWidget):
         self.setLayout(self.layout)
 
         settings_button = QPushButton()
-        settings_button.setIcon(QIcon("resources/cogwheel.png"))
+        settings_button.setIcon(QIcon("cogwheel.png"))
         settings_button.setIconSize(QSize(24, 24))
         settings_button.setFixedSize(32, 32)
         settings_button.setStyleSheet("background-color: #292929; color: white;")
