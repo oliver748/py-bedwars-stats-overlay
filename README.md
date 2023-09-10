@@ -1,5 +1,6 @@
 # py-bedwars-stats-overlay
 Simplistic Hypixel Bedwars Stats Overlay written in Python - it is in a very alpha stage and mainly just for helping other's on how to write a Hypixel bedwars stats overlay.
+
 I'm using POP!_OS myself and I haven't really tested it on Windows, so I'm not sure how it looks there but on my OS it looks awesome :D - even though it's very simplistic.
 
 # How to get started
